@@ -1,0 +1,7 @@
+feeder,start,end,type,reason
+KMG-11,2026-01-26 10:00,2026-01-26 14:00,planned,Maintenance
+KMG-12,2026-02-14 15:30,2026-02-14 18:00,unplanned,Cable fault
+KMG-13,2026-03-08 09:00,2026-03-08 11:30,planned,Transformer upgrade
+KMG-11,2026-04-22 16:00,2026-04-22 19:30,unplanned,Storm damage
+KMG-12,2026-05-15 11:00,2026-05-15 13:00,planned,Meter installation
+KMG-13,2026-06-10 08:00,2026-06-10 10:30,unplanned,Equipment failure

@@ -1,0 +1,59 @@
+# TANNOVA AI - 3-Minute Video Presentation Script
+
+## Video Outline & Timing
+- **0:00 - 0:40:** The Vision & Macro Dashboard (Command Overview)
+- **0:40 - 1:50:** The Micro View (Detection HUD & Explainable AI)
+- **1:50 - 2:40:** The Future (Demand Forecast & Asset Degradation)
+- **2:40 - 3:00:** Impact & Conclusion
+
+---
+
+## 🎬 0:00 - 0:40 | The Vision & Macro Dashboard
+
+**(Visual: Start on the Command Overview dashboard. Hover over the Total AT&C Loss and Zone LSS Matrix.)**
+
+**Speaker:**
+"Good morning. Today, distribution grids lose millions to undetected power theft. Traditional audits are reactive and slow. 
+
+Meet TANNOVA: a real-time, AI-driven operational intelligence platform built to eradicate AT&C losses. 
+
+This is the Command Overview. By ingesting live telemetry from smart meters and SCADA feeders, TANNOVA provides instant situational awareness. We calculate a 'Load Stress Score' for every zone, instantly identifying spatial mismatches. When Feeder Hebbal flashes red on our Zone Matrix, dispatchers know exactly where the grid is bleeding revenue before the billing cycle even ends."
+
+## 🎬 0:40 - 1:50 | The Micro View (Detection HUD & Explainable AI)
+
+**(Visual: Click on the 'Detection HUD'. Click a 'CRITICAL' meter to open the Diagnostic Analysis. Hover over the SHAP bars.)**
+
+**Speaker:**
+"But knowing *where* the theft occurs isn't enough. We need to know *how*. 
+
+Here in the Detection HUD, an ensemble of Isolation Forest and Deep Learning models constantly fingerprints adversarial grid behavior. When an anomaly triggers, the system classifies the exact attack vector—like a Magnet Attack or a Phase Tap.
+
+Crucially, TANNOVA isn't a black box. Using real-time SHAP Explainable AI, the system explicitly tells the operator *why* it flagged a meter. You can see exactly how a persistent load dip correlated with ambient temperature anomalies triggered the alert.
+
+**(Visual: Scroll down to the AI-Generated Operational Brief.)**
+
+To ensure action is taken, Tannova automatically generates comprehensive, legally sound inspection briefs in both English and local languages like Kannada, equipping field agents with targeted checklists for their audits."
+
+## 🎬 1:50 - 2:40 | The Future (Demand Forecast & Asset Degradation)
+
+**(Visual: Switch to the 'Load Forecast' tab. Trace the blue predictive funnel, then scroll down to the Predictive Asset Degradation panel.)**
+
+**Speaker:**
+"True intelligence is predictive, not just reactive. 
+
+Our Predictive Demand module uses an advanced LightGBM forecaster to project grid load, dynamically factoring in the impact of exogenous variables like weather and humidity in real-time. 
+
+**(Visual: Point to the '8.4 Months Remaining' text.)**
+
+But perhaps our most powerful feature is Predictive Asset Degradation. Power theft doesn't just steal money; it destroys hardware. By tracking the historical anomaly stress and peak load variance caused by bypasses, TANNOVA predicts the Remaining Useful Life (RUL) of your grid infrastructure. We warn you months in advance before a heavily stressed transformer catastrophically fails."
+
+## 🎬 2:40 - 3:00 | Impact & Conclusion
+
+**(Visual: Return to the main Command Overview. Leave the mouse stationary.)**
+
+**Speaker:**
+"TANNOVA transforms utility networks from reactive entities into proactive intelligence agencies. 
+
+By precisely fingerprinting theft and protecting physical infrastructure, we project an estimated Year-1 revenue recovery of over ₹42 Crores for a standard metropolitan deployment. 
+
+This is the future of grid resilience. Thank you."

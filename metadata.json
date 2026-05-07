@@ -1,0 +1,12 @@
+{
+  "name": "TANNOVA — BESCOM Operational Intelligence",
+  "description": "Threat-Aware Neural Network for Operational Visibility & Action. A decision intelligence platform for identifying AT&C losses and grid stress.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Predictive Analytics",
+    "Anomaly Detection",
+    "Geospatial Visualization"
+  ]
+}
